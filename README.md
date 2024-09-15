@@ -1,4 +1,4 @@
-# lesson-9-chessboard
+# Chessboard
 
 Cerinţe
 
